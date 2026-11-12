@@ -1,0 +1,1 @@
+Execute npm install, npx expo install react-dom react-native-web @expo/metro-runtime, depois npx expo start --web --clear. Se o arquivo wa-sqlite.wasm estiver fisicamente ausente em node_modules/expo-sqlite/web/wa-sqlite, execute npx expo install expo-sqlite e reinstale as dependencias.

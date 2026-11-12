@@ -1,0 +1,1 @@
+{"expo":{"name":"Sentinela","slug":"sentinela","scheme":"sentinela","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"light","newArchEnabled":true,"ios":{"supportsTablet":true},"android":{"package":"com.equipesentinela.app"},"plugins":["expo-sqlite"]}}
