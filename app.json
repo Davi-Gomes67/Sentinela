@@ -1,1 +1,28 @@
-{"expo":{"name":"Sentinela","slug":"sentinela","scheme":"sentinela","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"light","newArchEnabled":true,"ios":{"supportsTablet":true},"android":{"package":"com.equipesentinela.app"},"plugins":["expo-sqlite"]}}
+{
+  "expo": {
+    "name": "Sentinela",
+    "slug": "sentinela",
+    "scheme": "sentinela",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "icon": "./assets/icon.png",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.equipesentinela.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1E3A8A"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ]
+  }
+}
