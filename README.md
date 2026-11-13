@@ -60,5 +60,7 @@ As mensagens e links são fictícios (`.test`); nunca abra o navegador para site
 * **Nicolas Barrocos de Andrade** — Testador (QA) (responsável pela realização de testes, registro de problemas e verificação das correções).
 * **Davi Gomes de Alencar** — Líder de Projeto (responsável pela organização da equipe, acompanhamento das atividades e integração das entregas).
 * **Arthur Fontoura Rodrigues** — Testador (QA) (responsável pela execução de testes, identificação de erros e validação do funcionamento do aplicativo).
+* **Raphaely Monteiro da Silva** — Product Owner (responsável pela definição dos requisitos, organização do backlog e validação das funcionalidades).
+* **Joaquim de Souza Araujo** — Desenvolvedor Mobile (responsável pelo desenvolvimento e implementação das funcionalidades do aplicativo).
 
 **Observação:** testes de execução no Expo Go físico ainda devem ser realizados pela equipe. A documentação da entrega inclui evidências (prints do aparelho e commits de cada integrante) que só podem ser produzidas pelos respectivos membros.
