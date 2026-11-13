@@ -58,5 +58,6 @@ As mensagens e links são fictícios (`.test`); nunca abra o navegador para site
 
 * **[Nome dos outros membros/Líder]:** *(Adicionar conforme o papel dos demais)*
 * **Matheus Henrique Rocha Torres Pereira dos Anjos** — Designer UI/UX e Documentador (responsável pelo design das telas, construção do ícone, identidade visual e documentação do projeto)
+* Davi Gomes de Alencar — Líder de Projeto (responsável pela organização da equipe, acompanhamento das atividades e integração das entregas).
 
 **Observação:** testes de execução no Expo Go físico ainda devem ser realizados pela equipe. A documentação da entrega inclui evidências (prints do aparelho e commits de cada integrante) que só podem ser produzidas pelos respectivos membros.
