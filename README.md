@@ -54,4 +54,9 @@ As mensagens e links são fictícios (`.test`); nunca abra o navegador para site
 6. Errar uma categoria e verificar a recomendação no Início.
 7. Verificar que os links fictícios não são clicáveis e que as consultas usam parâmetros.
 
+## Equipe e Responsabilidades
+
+* **[Nome dos outros membros/Líder]:** *(Adicionar conforme o papel dos demais)*
+* **Matheus Henrique Rocha Torres Pereira dos Anjos** — Designer UI/UX e Documentador (responsável pelo design das telas, construção do ícone, identidade visual e documentação do projeto)
+
 **Observação:** testes de execução no Expo Go físico ainda devem ser realizados pela equipe. A documentação da entrega inclui evidências (prints do aparelho e commits de cada integrante) que só podem ser produzidas pelos respectivos membros.
