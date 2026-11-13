@@ -56,7 +56,6 @@ As mensagens e links são fictícios (`.test`); nunca abra o navegador para site
 
 ## Equipe e Responsabilidades
 
-* **[Nome dos outros membros/Líder]:** *(Adicionar conforme o papel dos demais)*
 * **Matheus Henrique Rocha Torres Pereira dos Anjos** — Designer UI/UX e Documentador (responsável pelo design das telas, construção do ícone, identidade visual e documentação do projeto).
 * **Nicolas Barrocos de Andrade** — Testador (QA) (responsável pela realização de testes, registro de problemas e verificação das correções).
 * **Davi Gomes de Alencar** — Líder de Projeto (responsável pela organização da equipe, acompanhamento das atividades e integração das entregas).
