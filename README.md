@@ -64,3 +64,5 @@ As mensagens e links são fictícios (`.test`); nunca abra o navegador para site
 * **Joaquim de Souza Araujo** — Desenvolvedor Mobile (responsável pelo desenvolvimento e implementação das funcionalidades do aplicativo).
 
 **Observação:** testes de execução no Expo Go físico ainda devem ser realizados pela equipe. A documentação da entrega inclui evidências (prints do aparelho e commits de cada integrante) que só podem ser produzidas pelos respectivos membros.
+
+.
